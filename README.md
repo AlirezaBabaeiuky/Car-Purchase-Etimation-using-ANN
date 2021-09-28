@@ -1,2 +1,2 @@
 # Car-Purchase-Etimation-using-ANN
-In this repository, Artificial Neural Network (ANN) is adopted to perform a regression task. To estimate the amount of money (budget) a potential buyer will spend on his/her purchase, the model is trained based on the: Age, Annual Salary, Credit Card Debt, Net Worth.   
+In this repository, Artificial Neural Network (ANN) is adopted to perform a regression task. To estimate the amount of money (budget) a potential buyer will spend on his/her purchase, the model is trained based on the: Age, Annual Salary, Credit Card Debt, Net Worth. Besides, the code is written on online GoogleColab which is particularly handy for individuals who do NOT have Pythoninstalled on their own systems.   
